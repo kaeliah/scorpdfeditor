@@ -169,12 +169,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mehmet Kesimalioğlu**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-
 ## 📧 Contact
 
 For questions, suggestions, or issues, please open an issue on GitHub.
 
 ---
 
-<p align="center">Made with ❤️ by Mehmet Kesimalioğlu</p>
+<p align="center">Made by Mehmet Kesimalioğlu</p>
